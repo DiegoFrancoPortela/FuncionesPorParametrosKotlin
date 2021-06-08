@@ -29,6 +29,15 @@ fun main(args: Array<String>) {
         println("- $it")
         x++
     }
+    println("-----------")
+
+    println("")
+    println("EJERCICIO 3")
+    println("")
+    // ----------------------------------------------------------------------------
+    // ----------------------------- EJERCICIO 3 ----------------------------------
+
+    Ejercicio3().impares(claseRandom.nRandom)
 
     println("-----------")
 }
